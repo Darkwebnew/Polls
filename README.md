@@ -110,7 +110,7 @@ urlpatterns = [
 
 ## COURSERA GRADE
 
-![image](https://github.com/user-attachments/assets/4d46ae72-0f7c-49fc-a5a2-10609e5b60a6)
+![Screenshot 2024-09-25 082645](https://github.com/user-attachments/assets/730886e5-0b10-4ecc-abe4-054fb4d0c4a6)
 
 ## RESULT
 Thus the program for creating a polls using Django has been executed successfully.
